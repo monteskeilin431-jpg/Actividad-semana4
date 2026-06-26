@@ -1,0 +1,1 @@
+Recibe el mensaje y devuelve una respuesta indicando que el reporte fue recibido.

@@ -1,0 +1,10 @@
+Pruebas de las rutas
+
+1. http://localhost:3000
+Resultado: Se muestra el mensaje "Servidor activo".
+
+2. http://localhost:3000/saludo
+Resultado: Se muestra el mensaje "Hola comunidad".
+
+3. http://localhost:3000/mensaje/juan
+Resultado: Se muestra el mensaje "Hola Juan", ya que la ruta recibe el nombre "juan" como parámetro y lo muestra en el saludo.
